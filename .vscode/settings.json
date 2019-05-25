@@ -1,0 +1,11 @@
+{
+  "editor.tabSize": 2,
+  "files.exclude": {
+    ".env": false
+  },
+  "editor.autoClosingBrackets": "always",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.defaultFormatter": "vscode.configuration-editing",
+  "editor.insertSpaces": false
+}
