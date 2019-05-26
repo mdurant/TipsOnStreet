@@ -13,12 +13,10 @@
 
 
 
-<!-- Icons -->
-<link href="css/font-awesome.min.css" rel="stylesheet">
-<link href="css/simple-line-icons.min.css" rel="stylesheet">
 
-<!-- Main styles for this application -->
-<link href="css/style.css" rel="stylesheet">
+
+<!-- Main styles for this application  LaraMix-->
+<link href="css/all.css" rel="stylesheet">
 
 </head>
 
@@ -64,9 +62,7 @@
 </div>
 
 <!-- Bootstrap and necessary plugins -->
-<script src="js/jquery.min.js"></script>
-<script src="js/popper.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
+<script src="js/all.js"></script>
 
 </body>
 </html>
